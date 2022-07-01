@@ -17,7 +17,7 @@
  ## Youtube Link Instruction:
  https://youtu.be/OaTlroB2nI8
  ## Deployment Guildline:
- 
+ * File Hướng dẫn (https://docs.google.com/document/d/1LHZndzK2ZC1wJNcmKcnHZuuSiB-YHIMGS55eDljX3nI/edit?usp=sharing)
  ## Appium: 
  
 ![image](https://user-images.githubusercontent.com/74039932/176790901-18a12c2d-1895-4b0b-b02d-61affce36079.png)
